@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "35561497865",
+    "project_id": "lendsqr-fp-news-test",
+    "storage_bucket": "lendsqr-fp-news-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35561497865:android:51a735b05f5260e54ddfd8",
+        "android_client_info": {
+          "package_name": "com.lendsqrfpnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35561497865-2pd6lde0k7hg9rqsajopcg5ce5sjsa92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqaqBnF4pDn__yrG37Rv7LYBjgQpY0JcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35561497865-2pd6lde0k7hg9rqsajopcg5ce5sjsa92.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35561497865-pn7l1nevdpmi0l2n7j2aksddb13mfnds.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lendsqrfpnews"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35561497865:android:512a400821966f3b4ddfd8",
+        "android_client_info": {
+          "package_name": "com.oyinlendsqrfpnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35561497865-180p9fnm4lduotuokvica0k4ll8gjbjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oyinlendsqrfpnews",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "35561497865-2pd6lde0k7hg9rqsajopcg5ce5sjsa92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqaqBnF4pDn__yrG37Rv7LYBjgQpY0JcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35561497865-2pd6lde0k7hg9rqsajopcg5ce5sjsa92.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35561497865-pn7l1nevdpmi0l2n7j2aksddb13mfnds.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lendsqrfpnews"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+export default {
+  API_URL: 'https://smiling-leader-6ae7620e5b.strapiapp.com/api/',
+  TOKEN:
+    '7274cfd2823d0a1a544302f26a5a4d2cd19c0ef18d36fe67247cc8cfdefcf3a4f2f63f428fd35c5b7acfb6cabfa889b51982a22e22e4c602c5803b982a27c3dd1e18f7f03a41cfe0b31bbefa337a0cb7ab6f864d939281d728e1f6bfa82943b01401f64ff773bc93a9533deb06738275c3e5d223a2681b418d850ebece750930',
+};

@@ -1,0 +1,18 @@
+export const topics = [
+  'Technology',
+  'Health & Wellness',
+  'Travel',
+  'Finance',
+  'Education',
+  'Food & Cooking',
+  'Fashion',
+  'Sports',
+  'Science',
+  'Entertainment',
+  'Politics',
+  'Environment',
+  'History',
+  'Literature',
+  'Art & Culture',
+  'Business',
+];
