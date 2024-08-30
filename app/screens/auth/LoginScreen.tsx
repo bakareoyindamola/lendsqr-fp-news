@@ -18,7 +18,7 @@ export const LoginScreen = () => {
     <ImageBackground
       accessibilityRole="image"
       testID="new-app-screen-header"
-      source={require('../../../assets/images/LoginBackground.png')}
+      source={require('../../../assets/images/login_background.png')}
       style={$imageBackground}>
       <Screen
         preset="auto"

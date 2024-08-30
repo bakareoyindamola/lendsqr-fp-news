@@ -20,6 +20,54 @@
     {
       "path": "assets/fonts/SpaceGrotesk-SemiBold.ttf",
       "sha1": "0f5ec8c385c42b65cd8bcb494f26e9c282d6a107"
+    },
+    {
+      "path": "assets/images/login_background.png",
+      "sha1": "1a300ec4502d392056895f8aefbb1fd277c91ee6"
+    },
+    {
+      "path": "assets/images/logo_background.png",
+      "sha1": "91c0018330a4c3b445d1a6c2b09ba6616788b796"
+    },
+    {
+      "path": "assets/icons/back.png",
+      "sha1": "b71bc07afdc0876caa9504c6f02b3828a0dddb96"
+    },
+    {
+      "path": "assets/icons/comment.png",
+      "sha1": "48fa627f02fcf60e10c7622deed5eb9e9c4ab22d"
+    },
+    {
+      "path": "assets/icons/error.png",
+      "sha1": "b16e32ff630177e3d157cac6491b8f1da60f3fc3"
+    },
+    {
+      "path": "assets/icons/google.png",
+      "sha1": "6ec4347654fe4db7b631e13f310d1a6de918e6ac"
+    },
+    {
+      "path": "assets/icons/like.png",
+      "sha1": "6ac642caf0477fe47ab48d23f081836893ecfdfb"
+    },
+    {
+      "path": "assets/icons/logo.png",
+      "sha1": "2394c71e067e3c9769e481624d4cce95d59c2c7d"
+    },
+    {
+      "path": "assets/icons/save.png",
+      "sha1": "fd92659d4115c80a7eb4c13469279b517c81ee37"
+    },
+    {
+      "path": "assets/icons/share.png",
+      "sha1": "13d3b30ba0a7181c66561f426081f2dadc2b91eb"
+    },
+    {
+      "path": "assets/icons/success.png",
+      "sha1": "8780377119bf9049a73ed48ffc4e6178a89aa9ee"
+    },
+    {
+      "path": "assets/icons/user.png",
+      "sha1": "cc9fb204d26949fb912f81422edb5b7616e34ecf"
     }
   ]
 }

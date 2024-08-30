@@ -22,7 +22,7 @@ export const ProfileImageAndName = (props: ProfileImageAndNameProps) => {
         source={
           photoUrl
             ? { uri: photoUrl }
-            : require('../../../assets/images/LoginBackground.png')
+            : require('../../../assets/images/login_background.png')
         }
       />
       <Text preset="formHelper" style={$textStyle} text={name} />

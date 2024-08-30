@@ -25,7 +25,7 @@ export const WelcomeScreen = () => {
   const { displayName, isNewUser, photoURL } = useSelector(
     (state: RootState) => state.user,
   );
-  const defaultImage = require('../../../assets/icons/icons8-user-100.png');
+  const defaultImage = require('../../../assets/icons/user.png');
 
   const LeftActionComponent = useMemo(
     () => (

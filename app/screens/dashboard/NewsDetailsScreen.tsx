@@ -105,7 +105,7 @@ export const NewsDetailsScreen = () => {
                 source={
                   imageUrl
                     ? { uri: imageUrl }
-                    : require('../../../assets/images/LoginBackground.png')
+                    : require('../../../assets/images/login_background.png')
                 }
                 style={$newsImage}
               />

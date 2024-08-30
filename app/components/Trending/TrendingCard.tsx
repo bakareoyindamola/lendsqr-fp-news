@@ -43,7 +43,7 @@ export const TrendingCard = (props: TrendingCardProps) => {
         source={
           imageUrl
             ? { uri: imageUrl }
-            : require('../../../assets/images/LoginBackground.png')
+            : require('../../../assets/images/login_background.png')
         }>
         <View style={$backdrop} />
         <View style={$contentContainerStyle}>

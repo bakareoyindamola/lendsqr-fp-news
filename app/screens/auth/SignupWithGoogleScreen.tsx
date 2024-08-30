@@ -56,7 +56,7 @@ export const SignupWithGoogleScreen = () => {
     <ImageBackground
       accessibilityRole="image"
       testID="new-app-screen-header"
-      source={require('../../../assets/images/LogoBackground.png')}
+      source={require('../../../assets/images/logo_background.png')}
       style={$imageBackground}>
       <Screen
         preset="auto"

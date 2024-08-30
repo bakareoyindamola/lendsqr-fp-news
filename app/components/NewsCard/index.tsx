@@ -41,7 +41,7 @@ export const NewsCard = (props: TrendingCardProps) => {
       }}>
       <View style={$NewsCardContainer}>
         <Image
-          source={require('../../../assets/images/LoginBackground.png')}
+          source={require('../../../assets/images/login_background.png')}
           style={$newsImage}
         />
         <View>
